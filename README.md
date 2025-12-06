@@ -16,7 +16,7 @@
 
 <div align="center">
 <a href="https://dingyuanhuang.github.io/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/🚀_Visit_My_Portfolio_Website-000000?style=for-the-badge&logo=vercel&logoColor=white&color=2ea44f" height="35" />
+<img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio_Website-000000?style=for-the-badge&logo=vercel&logoColor=white&color=2ea44f" height="35" />
 </a>
 </div>
 

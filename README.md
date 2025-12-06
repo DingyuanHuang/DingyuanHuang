@@ -1,55 +1,95 @@
-Dingyuan Huang
-
-🤖 Robotics | 🧠 AI | ⚙️ Control Systems
-
-<!-- --- 个人网站入口 (核心) --- -->
+<div align="center">Dingyuan Huang</div>
 
 <div align="center">
-<h2>
-🚀 访问我的个人主页 / Visit My Portfolio:
 
+🤖 Robotics Researcher | 🧠 AI Enthusiast | ⚙️ Control Systems Engineer
 
+🚀 访问我的个人主页 / Visit My Portfolio
 
+👉 https://dingyuanhuang.github.io/ 👈
 
-
-
-
-<a href="https://dingyuanhuang.github.io/">👉 https://dingyuanhuang.github.io/ 👈</a>
-</h2>
 </div>
+
+👨‍💻 极客状态 / Terminal Status
+
+user@Dingyuan:~$ whoami
+> Ph.D. Candidate in Civil & Coastal Engineering @ UF
+> M.S. in Computer Science & ECE
+
+user@Dingyuan:~$ current_mission
+> Developing Mobile Integrated Robotic Workstations (UR5 + ROS)
+> Exploring Advanced Motion Planning & Deep RL
+
+user@Dingyuan:~$ fun_fact
+> "I play the Bamboo Flute at Level 10! 🎋"
+
 
 ⚡ 关于我 / About Me
 
-👨‍💻 I build machines that see and think.
+类别 (Category)
 
-🔭 Current Work: Developing Mobile Integrated Robotic Workstations using UR5 arms & ROS at DreamX Lab.
+详情 (Details)
 
-🎓 Education:
+🔭 当前工作
 
-Ph.D. in Civil & Coastal Engineering (UF, 2026-Present)
+Research Assistant @ DreamX Lab 
 
-M.S. in Computer Science (UF, 2026-Present)
 
-M.S. in Electrical & Computer Engineering (UF, 2024-2025)
 
-🌱 Focus: Advanced Motion Planning, Deep RL, and Industrial Automation.
+ 专注于移动集成机器人工作站开发 (UR5, ROS)
 
-🎋 Fun Fact: I play the Bamboo Flute at Level 10!
+🎓 教育背景
+
+Ph.D. Civil & Coastal Engineering (UF, 2026-Present)
+
+
+
+M.S. Computer Science (UF, 2026-Present)
+
+
+
+M.S. Electrical & Computer Engineering (UF, 2024-2025)
+
+🌱 研究方向
+
+运动规划 (Motion Planning), 深度强化学习 (Deep RL), 工业自动化 (Industrial Automation)
 
 🛠️ 技术栈 / Tech Stack
 
-Languages: Python 🐍, C++ ⚙️, C, MATLAB 🧮
+领域 (Domain)
 
-Robotics & AI: ROS 🤖, TensorFlow 🧠, PyTorch 🔥, OpenCV 👁️
+技术 (Technologies)
 
-Tools: Linux 🐧, Docker 🐳, Git, AutoCAD, SolidWorks
+💻 编程语言
 
-📫 联系方式 / Connect with Me
+Python 🐍, C++ ⚙️, C, MATLAB 🧮
 
-📧 Email: dingyuanhuang@ufl.edu
+🤖 机器人 & AI
 
-🔗 LinkedIn: Dingyuan Huang
+ROS (Robot Operating System), TensorFlow, PyTorch, OpenCV, PLC
 
-🌐 Website: dingyuanhuang.github.io
+🔧 开发工具
 
-<p align="center">© 2025 Dingyuan Huang</p>
+Linux 🐧, Docker 🐳, Git, AutoCAD, SolidWorks
+
+📫 联系方式 / Connect
+
+<div align="center">
+
+Email
+
+LinkedIn
+
+Website
+
+dingyuanhuang@ufl.edu
+
+Dingyuan Huang
+
+Portfolio
+
+</div>
+
+<div align="center">
+<small>© 2025 Dingyuan Huang | Built with 💻 and ☕</small>
+</div>

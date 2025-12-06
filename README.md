@@ -16,7 +16,7 @@
 
 <h3 align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D28%26pause%3D1000%26color%3D39FF14%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DPh.D.%2BCandidate%2B%40%2BUF%3BBuilding%2BIntelligent%2BRobots%3BROS%2B%26%2BComputer%2BVision%2BDeveloper%3BTransforming%2BCode%2Binto%2BMotion" alt="Typing SVG" />
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D28%26pause%3D1000%26color%3D39FF14%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DPh.D.%2BCandidate%2B%2540%2BUF%3BBuilding%2BIntelligent%2BRobots%3BROS%2B%2526%2BComputer%2BVision%2BDeveloper%3BTransforming%2BCode%2Binto%2BMotion" alt="Typing SVG" />
 </a>
 </h3>
 
@@ -24,7 +24,7 @@
 
 <p align="center">
 <a href="mailto:dingyuanhuang@ufl.edu">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-dingyuanhuang%40ufl.edu-D14836%3Fstyle%3Dflat-square%26logo%3Dgmail%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-dingyuanhuang%2540ufl.edu-D14836%3Fstyle%3Dflat-square%26logo%3Dgmail%26logoColor%3Dwhite" />
 </a>
 <a href="https://www.google.com/search?q=https://linkedin.com/in/yourusername">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-0077B5%3Fstyle%3Dflat-square%26logo%3Dlinkedin%26logoColor%3Dwhite" />
@@ -48,6 +48,10 @@
 <tr>
 <td width="60%" valign="top">
 <h3>👨‍💻 I build machines that see and think.</h3>
+
+
+
+
 
 <ul>
 <li>🔭 <b>Current Work:</b> Developing <b>Mobile Integrated Robotic Workstations</b> using UR5 arms & ROS at <a href="#">DreamX Lab</a>.</li>
@@ -91,7 +95,3 @@
 <!-- --- 贡献活动折线图 --- -->
 
 <!-- --- 底部 Footer --- -->
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3D0,2,2,25,30%26height%3D100%26section%3Dfooter" width="100%"/>
-</div>

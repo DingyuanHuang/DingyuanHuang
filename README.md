@@ -16,9 +16,9 @@ Currently, I am working as a Research Assistant at DreamX Lab, focusing on devel
 
 Education:
 
-Ph.D. in Civil & Coastal Engineering, UF (Incoming 2026)
+Ph.D. in Civil & Coastal Engineering, UF (present)
 
-M.S. in Computer Science, UF (Incoming 2026)
+M.S. in Computer Science, UF (present)
 
 M.S. in Electrical & Computer Engineering, UF (2025)
 

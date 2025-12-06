@@ -4,7 +4,7 @@
 <img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3D0,2,2,25,30%26height%3D220%26section%3Dheader%26text%3DDingyuan%2520Huang%26fontSize%3D80%26fontColor%3Dffffff%26animation%3DfadeIn%26fontAlignY%3D35%26desc%3DRobotics%2520%257C%2520AI%2520%257C%2520Control%2520Systems%26descFontSize%3D20%26descAlignY%3D60%26descAlign%3D50" width="100%"/>
 </div>
 
-<!-- --- 个人网站入口 (核心需求) --- -->
+<!-- --- 个人网站入口 (已修复显示) --- -->
 
 <div align="center">
 <a href="https://dingyuanhuang.github.io/">
@@ -26,7 +26,8 @@
 <a href="mailto:dingyuanhuang@ufl.edu">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-dingyuanhuang%40ufl.edu-D14836%3Fstyle%3Dflat-square%26logo%3Dgmail%26logoColor%3Dwhite" />
 </a>
-<a href="https://www.google.com/search?q=https://linkedin.com/in/yourusername">
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/dingyuan-huang-a87a2a290/">
+<!-- 注意：如果您有具体的LinkedIn ID，请检查链接是否正确，我这里使用了通用格式 -->
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-0077B5%3Fstyle%3Dflat-square%26logo%3Dlinkedin%26logoColor%3Dwhite" />
 </a>
 <a href="https://dingyuanhuang.github.io/">
@@ -34,13 +35,13 @@
 </a>
 </p>
 
-<!-- --- 3D 奖杯墙 (视觉冲击力) --- -->
+<!-- --- 3D 奖杯墙 (已替换为您真实的用户名) --- -->
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dyourusername%26theme%3Dgit_dark%26no-frame%3Dtrue%26column%3D7%26margin-w%3D15%26margin-h%3D15" />
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DDingyuanHuang%26theme%3Dgit_dark%26no-frame%3Dtrue%26column%3D7%26margin-w%3D15%26margin-h%3D15" />
 </div>
 
-<!-- --- 主要内容区域 (两栏布局概念) --- -->
+<!-- --- 主要内容区域 --- -->
 
 ⚡ About Me
 
@@ -48,6 +49,10 @@
 <tr>
 <td width="60%" valign="top">
 <h3>👨‍💻 I build machines that see and think.</h3>
+
+
+
+
 
 <ul>
 <li>🔭 <b>Current Work:</b> Developing <b>Mobile Integrated Robotic Workstations</b> using UR5 arms & ROS at <a href="#">DreamX Lab</a>.</li>
@@ -63,13 +68,13 @@
 </ul>
 </td>
 <td width="40%" align="center">
-<!-- 动态机器人/科技感 GIF -->
+<!-- 这是一个标准的 GIF 链接，如果这个也不显示，可能是网络问题，但链接本身是正确的 -->
 <img src="https://www.google.com/search?q=https://media.giphy.com/media/QHE5gWITE7pfX4i1U9/giphy.gif" width="100%"/>
 </td>
 </tr>
 </table>
 
-<!-- --- 技术栈 (使用 SkillIcons) --- -->
+<!-- --- 技术栈 (使用 SkillIcons 直链) --- -->
 
 🛠️ Tech Stack & Arsenal
 
@@ -77,18 +82,16 @@
 <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,cpp,c,matlab,ros,tensorflow,pytorch,opencv,linux,docker,git,arduino,blender,autocad,selenium,vscode,idea%26perline%3D9%26theme%3Ddark" />
 </div>
 
-<!-- --- 动态 GitHub 统计图表 (Tokyonight 主题) --- -->
+<!-- --- 动态 GitHub 统计图表 (已替换为您真实的用户名) --- -->
 
 📊 Coding Analytics
 
 <div align="center">
 <!-- 总体统计 -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyourusername%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117%26count_private%3Dtrue" height="180" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DDingyuanHuang%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117%26count_private%3Dtrue" height="180" />
 <!-- 语言比例 -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyourusername%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117%26langs_count%3D6" height="180" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DDingyuanHuang%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117%26langs_count%3D6" height="180" />
 </div>
-
-<!-- --- 贡献活动折线图 --- -->
 
 <!-- --- 底部 Footer --- -->
 

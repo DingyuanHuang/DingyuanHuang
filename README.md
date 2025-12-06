@@ -1,8 +1,10 @@
-Dingyuan Huang (Yuan)
+Dingyuan Huang 
 
 Ph.D. Student @ UF | Robotics Researcher | Full Stack Engineer
 
-🌐 Visit My Personal Website
+🌐 Visit My Personal Website：https://dingyuanhuang.github.io/
+
+Lab website: https://dreamxlab.github.io/
 
 📖 About Me
 
@@ -10,7 +12,7 @@ I am an incoming Ph.D. student in Civil & Coastal Engineering at the University 
 
 Currently, I am working as a Research Assistant at DreamX Lab, focusing on developing mobile integrated robotic workstations using UR5 arms and ROS.
 
-Focus: Precision Manipulation, Motion Planning, Deep Reinforcement Learning.
+Focus: Precision Manipulation, Motion Planning, Deep Reinforcement Learning and Healthcare Robot.
 
 Education:
 

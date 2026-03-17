@@ -20,8 +20,6 @@ Ph.D. in Civil & Coastal Engineering, UF (present)
 
 M.S. in Computer Science, UF (present)
 
-M.S. in Electrical & Computer Engineering, UF (2025)
-
 B.E. in Intelligent Manufacturing, CSU (2023)
 
 
